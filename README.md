@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://silver-goldina-81.tiiny.site/](https://silver-goldina-81.tiiny.site/)
 
-- ⚡ Fun fact **I consider myself a generalist**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/angjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angjw" height="30" width="40" /></a>
