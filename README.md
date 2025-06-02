@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Golang**
 
-- 👨‍💻 My portfolio [https://xsolstice1.github.io/jwportfolio/](https://xsolstice1.github.io/jwportfolio/)
+- 👨‍💻 My portfolio [https://xsolstice1.github.io/JWPortfoliov2](https://xsolstice1.github.io/JWPortfoliov2)
 
 - 💬 Ask me about **anything!**
 
